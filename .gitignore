@@ -1,3 +1,5 @@
 env_segmentation/
 env_tf_gpu/
 data/
+monenv/
+mlruns/
