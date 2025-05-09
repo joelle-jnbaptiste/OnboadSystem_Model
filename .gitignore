@@ -1,3 +1,3 @@
-./env_segmentation/*
-./env_tf_gpu/*
-./data/*
+env_segmentation/
+env_tf_gpu/
+data/
